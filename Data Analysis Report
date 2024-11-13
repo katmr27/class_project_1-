@@ -1,0 +1,46 @@
+Project 1
+
+Data Analysis: The Impact of COVID-19 on U.S. Workforce Productivity
+Team 13: Katrina Rodriguez, Aditi Nankar, Lily Saltonstall, Trenton Paxton
+
+
+Introduction
+
+Our group aimed to validate the hypothesis: COVID-19 negatively impacted U.S. workforce productivity. To test this, we utilized datasets from the U.S. Bureau of Labor focusing on changes in unit labor costs, compensation, total productivity, and industry-specific trends. We organized the data into four specific data frames and created corresponding visualizations to address key questions related to our hypothesis.
+
+
+Unit Labor Costs
+
+For our first data frame, we analyzed percent changes in unit labor costs by quarter from 2018 to 2023. The data included three columns: year, quarter, and percent change. Two visualizations were created:
+	1. A scatter plot answering the question: “How have unit labor costs changed during COVID-19?”
+	2. A box-and-whisker plot addressing: “Was there a recovery period after 2020?”
+Our analysis revealed significant spikes and declines during Q2 and Q3 of 2020, indicating a disruption during the height of the pandemic. However, outside this period, the trends remained consistent with pre- and post-COVID years. Thus, we concluded that while unit labor costs were briefly impacted, no significant recovery period was needed beyond 2020.
+
+
+Real Hourly Compensation
+
+Using a dataset on percent changes in real hourly compensation (adjusted for consumer costs), we examined workforce compensation trends from 2018 to 2023. The data included three columns: year, fiscal quarter, and percent change. Two visualizations were created:
+	1. A line graph illustrating trends across years.
+	2. A scatter plot highlighting variations by quarter.
+The data revealed consistent trends across most years, with a notable spike in Q2 of 2020 followed by a sharp decline in Q3. These anomalies suggest that real hourly compensation was briefly disrupted during 2020 but returned to stable patterns in subsequent quarters.
+
+
+Total Factor Productivity
+
+For our third dataset, we analyzed total factor productivity across a six-year span, summarizing annual productivity values. A single pie chart was used to represent the data.
+Our findings showed no significant changes in annual productivity between 2018 and 2023. Productivity levels remained relatively stable, with averages consistent across the years. These results did not support our hypothesis and indicated minimal overall impact on productivity year-over-year.
+
+
+Labor Productivity by Sector
+
+Our fourth dataset examined unit labor costs and productivity changes across 15 industry sectors from 2018 to 2023. Using bar graphs, we addressed two questions:
+	1. “Were there specific sectors with trends that deviated from overall productivity patterns?”
+	2. “Did unit labor costs by sector show significant deviations?”
+The analysis revealed that most sectors experienced minimal change when comparing 2018 to 2023. While some sectors exhibited minor fluctuations, the overall trends showed no significant disruptions attributable to COVID-19.
+
+
+Conclusion
+
+After reviewing all data frames and visualizations, our team concluded that the data did not support the hypothesis that COVID-19 negatively impacted U.S. workforce productivity. Instead, the results aligned with the null hypothesis: COVID-19 did not significantly affect workforce productivity.
+
+While Q2 and Q3 of 2020 showed brief disruptions in various metrics, the overall trends before and after 2020 remained stable. This analysis provides valuable insights for both employers and employees, demonstrating that the U.S. workforce was resilient and largely unaffected in the long term by the pandemic.
